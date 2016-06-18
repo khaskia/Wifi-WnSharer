@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Wifi WNSharer v 0.3.exe" version="1.0.0.4" publicKeyToken="0ebc160db208fc50" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Wifi WNSharer v 0.3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Wifi WNSharer v 0.3.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="jSkin.dll" size="53248">
+      <assemblyIdentity name="jSkin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>L6bSL/fmoYl8gb/UoBYRzCe0C6gHRyNw24+HeapkQD0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wifi WNSharer v 0.3.exe" size="842752">
+      <assemblyIdentity name="Wifi WNSharer v 0.3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>431aaN0z6JDubxyi9ZxRsTr46ktzSPSz16vtjVXdy70=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Wifi WNSharer v 0.3.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MUHAMMEDALI\mohamedali" issuerKeyHash="6d0d5a298fe3fc5451f4216977ccf4c882081a33" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>HDvgv+ABq5GD9cinHFw+3iVo69vVAcLPp14knQxNyaw=</DigestValue></Reference></SignedInfo><SignatureValue>LWl8dMR5Hrk/S5kY6XLf4v3yh9zYSJfC0ect07ukuDVTSqyoNweK8bEWY4vlID0iKFaKiUrjFuYEiR9OiQH0gIXe8f60MaG/d3nzTrG286JLuL6+ysqlVhpsVz7woXfUqZGXRiGu2fK0AjewjuUnovd1arUurSnNflgS3I6SkQM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>s+pgc2IjMFFvJE3zBaOG451S7ynixgKCI3Q0fiDCiKNi3OpWJ2PjABONJBjuIll1fMM5FImddE/Ny9ULjsbEecWj+SexWfX/Z8lk2/Ky4S2mYAV8PKnyyxpYfgFdjFrbj94C3T7L05si6S3ZsNOdjQR2bArFCEm5JrBvNiUwohM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="acc94d0c9d245ea7cfc201d5dbeb6825de3e5c1ca7c8f58391ab01e0bfe03b1c" Description="" Url=""><as:assemblyIdentity name="Wifi WNSharer v 0.3.exe" version="1.0.0.4" publicKeyToken="0ebc160db208fc50" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MUHAMMEDALI\mohamedali</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>O0/rxphEWmhGHyvVUge6Kr89m5F57ctvRb4Gd5gt/aA=</DigestValue></Reference></SignedInfo><SignatureValue>qz81b/CizCCfSCMyarh094Rpd4iWq277QIyP8LauXNOSfgPwSRaUHuW0t4YpofoWxiXHe61QpYObyqEbIsslvt9QAJCa1O4FhLh9kTmcc8WR8AK7+LUNsEafbbgkuEKuZksI/bYLFGngmwpSIxCiaIcVnGIsFB87JTowvHdOC7Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>s+pgc2IjMFFvJE3zBaOG451S7ynixgKCI3Q0fiDCiKNi3OpWJ2PjABONJBjuIll1fMM5FImddE/Ny9ULjsbEecWj+SexWfX/Z8lk2/Ky4S2mYAV8PKnyyxpYfgFdjFrbj94C3T7L05si6S3ZsNOdjQR2bArFCEm5JrBvNiUwohM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQbDkkuXJvDIxAeyu+pR67rzANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwATQBVAEgAQQBNAE0ARQBEAEEATABJAFwAbQBvAGgAYQBtAGUAZABhAGwAaTAeFw0xNTEwMjExODU1NTVaFw0xNjEwMjEwMDU1NTVaMDcxNTAzBgNVBAMeLABNAFUASABBAE0ATQBFAEQAQQBMAEkAXABtAG8AaABhAG0AZQBkAGEAbABpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz6mBzYiMwUW8kTfMFo4bjnVLvKeLGAoIjdDR+IMKIo2Lc6lYnY+MAE40kGO4iWXV8wzkUiZ10T83L1QuOxsR5xaP5J7FZ9f9nyWTb8rLhLaZgBXw8qfLLGlh+AV2MWtuP3gLdPsvTmyLpLdmw052NBHZsCsUISbkmsG82JTCiEwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAG9QVx3azJmcqhmBd4bnqfKkOFecm51NBKVxFhuHsqbWaMTwNL3tc6f0UmknQ4uRJkfmWbhs3T8MYBzzPNesjwZLbDhgIFmSt22ivTwysjBiTHSnBQwrQ0rAfJy/7MXvZ2umWrjO07MZzx+GgFADJ9o//1CgASxk/Oj4fB0neFLl</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

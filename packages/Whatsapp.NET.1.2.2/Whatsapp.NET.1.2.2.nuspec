@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Whatsapp.NET</id>
+    <version>1.2.2</version>
+    <title>WhastApp API</title>
+    <authors>Rafael Lincoln</authors>
+    <owners>Rafael Lincoln</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/rafaellincoln/WhatsAPINet</projectUrl>
+    <iconUrl>https://lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w300</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The best API for WhatsApp.
+Contribute to the code on github.
+More details: http://rafaellincoln.wordpress.com</description>
+    <summary>WhatsApp Api for .NET</summary>
+    <copyright>Rafael Lincoln 2014</copyright>
+    <language>en-US</language>
+    <tags>WhatsApp</tags>
+  </metadata>
+</package>

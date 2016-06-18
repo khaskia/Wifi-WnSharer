@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SharingWifi.exe" version="1.0.0.0" publicKeyToken="0ebc160db208fc50" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SharingWifi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SharingWifi.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharingWifi.exe" size="28160">
+      <assemblyIdentity name="SharingWifi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qw3MSFY246vT4bIM1HMO9UiL9d2WmFoUQ78ftqXCyks=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SharingWifi.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MUHAMMEDALI\mohamedali" issuerKeyHash="6d0d5a298fe3fc5451f4216977ccf4c882081a33" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/elgieGxtVDEdTDbEu8rKr90uJlwcsbvFyi7NU1zBaI=</DigestValue></Reference></SignedInfo><SignatureValue>q1elSxK2cS086hKbpdA+ezLU8ugiSURWtLkXolOAg+h8h/vWkpC7ilrrMB0CHVfZFbG8LNXZHae2OyH13YXhusna0lFLwP9/F/nEQERBeyUS0T/wUevdY4HvnKYWm2SpwUeN1gw3iz0GAROj/8NeAlnLd6YOT+qQxAOv5h7aauc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>s+pgc2IjMFFvJE3zBaOG451S7ynixgKCI3Q0fiDCiKNi3OpWJ2PjABONJBjuIll1fMM5FImddE/Ny9ULjsbEecWj+SexWfX/Z8lk2/Ky4S2mYAV8PKnyyxpYfgFdjFrbj94C3T7L05si6S3ZsNOdjQR2bArFCEm5JrBvNiUwohM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a205734d35bb2817efc6727099b874bf2a2bef12db3075c450b5b1e18960e9fd" Description="" Url=""><as:assemblyIdentity name="SharingWifi.exe" version="1.0.0.0" publicKeyToken="0ebc160db208fc50" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MUHAMMEDALI\mohamedali</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5+Yv8n90mg06Vuk+CJDbYUr/Q6TGJHihapr/Z+7Zjvw=</DigestValue></Reference></SignedInfo><SignatureValue>p961AAbZl9v8mWXqhajaq3bs1K13SxhHb91NbSiG86vuBj64tOU/KR18YPHb7FnmY9o0uYp3ebxzzZU89Jk8UYJ7cta5mij4RBlqJtf6anWh7KsOZtN/MdF25MPg3mYcf1IdaVQGzodU0f982B1PcMYVUMpffLEo/xHb+EF5o84=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>s+pgc2IjMFFvJE3zBaOG451S7ynixgKCI3Q0fiDCiKNi3OpWJ2PjABONJBjuIll1fMM5FImddE/Ny9ULjsbEecWj+SexWfX/Z8lk2/Ky4S2mYAV8PKnyyxpYfgFdjFrbj94C3T7L05si6S3ZsNOdjQR2bArFCEm5JrBvNiUwohM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQbDkkuXJvDIxAeyu+pR67rzANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwATQBVAEgAQQBNAE0ARQBEAEEATABJAFwAbQBvAGgAYQBtAGUAZABhAGwAaTAeFw0xNTEwMjExODU1NTVaFw0xNjEwMjEwMDU1NTVaMDcxNTAzBgNVBAMeLABNAFUASABBAE0ATQBFAEQAQQBMAEkAXABtAG8AaABhAG0AZQBkAGEAbABpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz6mBzYiMwUW8kTfMFo4bjnVLvKeLGAoIjdDR+IMKIo2Lc6lYnY+MAE40kGO4iWXV8wzkUiZ10T83L1QuOxsR5xaP5J7FZ9f9nyWTb8rLhLaZgBXw8qfLLGlh+AV2MWtuP3gLdPsvTmyLpLdmw052NBHZsCsUISbkmsG82JTCiEwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAG9QVx3azJmcqhmBd4bnqfKkOFecm51NBKVxFhuHsqbWaMTwNL3tc6f0UmknQ4uRJkfmWbhs3T8MYBzzPNesjwZLbDhgIFmSt22ivTwysjBiTHSnBQwrQ0rAfJy/7MXvZ2umWrjO07MZzx+GgFADJ9o//1CgASxk/Oj4fB0neFLl</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

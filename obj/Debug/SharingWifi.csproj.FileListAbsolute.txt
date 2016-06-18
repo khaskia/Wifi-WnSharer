@@ -1,0 +1,9 @@
+G:\cs50\mywinforms\projects\SharingWifi\bin\Debug\SharingWifi.exe.config
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.csprojResolveAssemblyReference.cache
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.Form1.resources
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.Properties.Resources.resources
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.csproj.GenerateResource.Cache
+G:\cs50\mywinforms\projects\SharingWifi\bin\Debug\SharingWifi.exe
+G:\cs50\mywinforms\projects\SharingWifi\bin\Debug\SharingWifi.pdb
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.exe
+G:\cs50\mywinforms\projects\SharingWifi\obj\Debug\SharingWifi.pdb

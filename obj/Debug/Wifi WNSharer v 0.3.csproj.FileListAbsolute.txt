@@ -1,0 +1,40 @@
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe.config
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe.manifest
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.application
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.pdb
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\jSkin.dll
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.csprojResolveAssemblyReference.cache
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Form1.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Form2.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Properties.Resources.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.shareinternt.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.WinSharing.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.csproj.GenerateResource.Cache
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.exe.manifest
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.application
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.exe
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.pdb
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.about.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.EditText.resources
+G:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\WhatsAppApi.dll
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.csprojResolveAssemblyReference.cache
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.about.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.EditText.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Form1.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Form2.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.Properties.Resources.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.shareinternt.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\SharingWifi.WinSharing.resources
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.csproj.GenerateResource.Cache
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.exe
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.pdb
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe.config
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe.manifest
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.application
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.exe
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\Wifi WNSharer v 0.3.pdb
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\jSkin.dll
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\bin\Debug\WhatsAppApi.dll
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.exe.manifest
+F:\cs50\mywinforms\projects\Wifi WNSharer v 0.1\obj\Debug\Wifi WNSharer v 0.3.application
